@@ -1,13 +1,6 @@
-## Hi there 👋 It's me Mathusri
+Create a complete premium GitHub Profile README.md for the following candidate.
 
-AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna University
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🤖 Building and integrating AI into real-world products and workflows
-- 🎓 Studying at Varuvan Vadivelan Institute of Technology, Anna University
-- 🌱 Currently learning & teaching DSA, and exploring LLMs, RAG pipelines, and agentic AI systems
-- ⚡ Fun fact: I know English
-- 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   NAME
 Madhu Sri A
 
