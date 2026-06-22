@@ -53,16 +53,25 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 </p>
 
 ### 🧰 IDE & Tools
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
-<img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
-<img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="Anaconda" width="50" height="50"/>
+  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse IDE" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/480/null/notion--v1.png" alt="Notion" width="50" height="50"/>
+  <img src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" alt="Adobe Photoshop" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" alt="Adobe XD"/>
+</p>
+
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
