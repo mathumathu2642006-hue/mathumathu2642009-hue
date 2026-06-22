@@ -19,7 +19,7 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 
 ### 🧠 AI / ML Stack
 
-<h3>🛠️ AI/ML Tech Stack</h3>
+<
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
@@ -32,20 +32,25 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
   <img src="https://img.icons8.com/fluency/48/database.png" alt="Vector Databases" width="50" height="50"/>
 </p>
 
+
 ### 💻 Languages & Web
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/null/graphql.png" alt="GraphQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png" alt="Firebase" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluent/48/000000/arduino.png" alt="Arduino" width="50" height="50"/>
+</p>
 
 ### 🧰 IDE & Tools
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
