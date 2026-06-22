@@ -82,11 +82,7 @@ Anna University
 
 18. Animated Footer
 
-Use:
-
-https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
 
 ---
 
