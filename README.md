@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Mathusri
 
-AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna University
+AI Engineer | Student @ Varuvan Vadivelan Institute of Technology,
+Anna University
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🤖 Building and integrating AI into real-world products and workflows
@@ -9,8 +10,6 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 - ⚡ Fun fact: I know English
 
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ### Connect with me
