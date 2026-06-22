@@ -4,10 +4,11 @@
 
 <h3 align="center">Artificial Intelligence Engineer</h3>
 
-
 <p align="center">
-Aspiring AI Engineer passionate about Machine Learning, Data Science, Deep Learning, and Generative AI.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Python+%7C+AI+%7C+Data+Science;Deep+Learning+Explorer;Future+AI+Professional" alt="Typing SVG" />
 </p>
+
+
 
 ---
 
