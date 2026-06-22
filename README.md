@@ -8,6 +8,40 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 - 🌱 Currently learning & teaching DSA, and exploring LLMs, RAG pipelines, and agentic AI systems
 - ⚡ Fun fact: I know English
 - 
+  NAME
+Madhu Sri A
+
+ROLE
+Artificial Intelligence Engineer
+
+TAGLINE
+Aspiring AI Engineer passionate about Machine Learning, Data Science, Deep Learning, and Generative AI.
+
+LOCATION
+Trichy, Tamil Nadu, India
+
+EMAIL
+divyamadhu2642006@gmail.com
+
+LINKEDIN
+https://linkedin.com/in/madhu026
+
+GITHUB USERNAME
+[REPLACE_WITH_GITHUB_USERNAME]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EDUCATION
+
+B.Tech Information Technology
+Varuvan Vadivelan Institute of Technology
+Anna University
+2023 – 2027
+
+CGPA: 8.1 / 10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/MathusriHd)
@@ -54,7 +88,6 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 
 ### 🧰 IDE & Tools
 
-## 🛠️ Tools & Platforms
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
