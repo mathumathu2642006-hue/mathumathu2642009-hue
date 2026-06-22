@@ -1,37 +1,14 @@
-Create a complete premium GitHub Profile README.md for the following candidate.
+## Hi there 👋 It's me Mathusri
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  NAME
-Madhu Sri A
+AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna University
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-ROLE
-Artificial Intelligence Engineer
+- 🤖 Building and integrating AI into real-world products and workflows
+- 🎓 Studying at Varuvan Vadivelan Institute of Technology, Anna University,CGPA: 8.1 / 10
+- 🌱 Currently learning & teaching DSA, and exploring LLMs, RAG pipelines, and agentic AI systems
+- ⚡ Fun fact: I know English
 
-TAGLINE
-Aspiring AI Engineer passionate about Machine Learning, Data Science, Deep Learning, and Generative AI.
 
-LOCATION
-Trichy, Tamil Nadu, India
-
-EMAIL
-divyamadhu2642006@gmail.com
-
-LINKEDIN
-https://linkedin.com/in/madhu026
-
-GITHUB USERNAME
-[REPLACE_WITH_GITHUB_USERNAME]
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-EDUCATION
-
-B.Tech Information Technology
-Varuvan Vadivelan Institute of Technology
-Anna University
-2023 – 2027
-
-CGPA: 8.1 / 10
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -103,6 +80,14 @@ CGPA: 8.1 / 10
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+
+18. Animated Footer
+
+Use:
+
+https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
