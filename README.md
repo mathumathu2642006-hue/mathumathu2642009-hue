@@ -18,14 +18,7 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 ---
 
 ### 🧠 AI / ML Stack
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img height="50" width="50" title="PyTorch" src="https://img.icons8.com/fluency/48/pytorch.png"/>
-<img height="50" width="50" title="OpenAI" src="https://img.icons8.com/fluency/48/openai.png"/>
-<img height="50" width="50" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4"/>
-<img height="50" width="50" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img height="50" width="50" title="Vector DBs" src="https://img.icons8.com/fluency/48/database.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/<img height="50" width="50" title="PyTorch" src="https://img.icons8.com/fluency/48/pytorch.png"/><img height="50" width="50" title="OpenAI" src="https://img.icons8.com/fluency/48/openai.png"/><img height="50" width="50" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4"/><img height="50" width="50" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" title="Vector DBs" src="https://img.icons8.com/fluency/48/database.png"/>
 
 ### 💻 Languages & Web
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
