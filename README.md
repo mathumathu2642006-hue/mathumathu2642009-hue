@@ -18,7 +18,29 @@ AI Engineer | Student @ Varuvan Vadivelan Institute of Technology, Anna Universi
 ---
 
 ### 🧠 AI / ML Stack
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/<img height="50" width="50" title="PyTorch" src="https://img.icons8.com/fluency/48/pytorch.png"/><img height="50" width="50" title="OpenAI" src="https://img.icons8.com/fluency/48/openai.png"/><img height="50" width="50" title="LangChain" src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4"/><img height="50" width="50" title="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" title="Vector DBs" src="https://img.icons8.com/fluency/48/database.png"/>
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:nowrap;">
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+
+    <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow">
+
+    <img height="50" width="50" title="PyTorch"
+         src="https://img.icons8.com/fluency/48/pytorch.png" alt="PyTorch">
+
+    <img height="50" width="50" title="OpenAI"
+         src="https://img.icons8.com/fluency/48/openai.png" alt="OpenAI">
+
+    <img height="50" width="50" title="LangChain"
+         src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain">
+
+    <img height="50" width="50" title="Hugging Face"
+         src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face">
+
+    <img height="50" width="50"
+         src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+
+    <img height="50" width="50" title="Vector DBs"
+         src="https://img.icons8.com/fluency/48/database.png" alt="Vector DBs">
+</div>
 
 ### 💻 Languages & Web
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
