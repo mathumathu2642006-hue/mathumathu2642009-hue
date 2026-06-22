@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MADHU%20SRI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer&descAlignY=55"/>
+
 
 <h1 align="center">Hi 👋 I'm Madhu Sri A</h1>
 
@@ -8,7 +8,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Python+%7C+AI+%7C+Data+Science;Deep+Learning+Explorer;Future+AI+Professional" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+Aspiring AI Engineer passionate about Machine Learning, Data Science, Deep Learning, and Generative AI.
+</p>
 
 ---
 
