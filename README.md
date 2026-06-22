@@ -104,8 +104,138 @@ Anna University
 
 ---
 
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=REPLACE_WITH_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
 ![Mathusri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathumathu2642006-hue&theme=dark&show_icons=true&&hide=issues,contribs)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/mathu-sri?ext=contest&theme=dark)](https://leetcode.com/u/mathu-sri/)
 
 [![Mathusri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathumathu2642006-hue&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 🏆 GitHub Trophy Wall
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=REPLACE_WITH_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 💼 Internship Experience
+
+### ☁️ Cloud Computing Intern
+
+📅 **January 2025 – April 2025**
+
+#### Key Responsibilities
+
+* ☁️ Learned cloud computing concepts and services
+* 🚀 Worked on cloud-based applications
+* 🔧 Gained basic deployment experience
+* 🧠 Improved technical problem-solving abilities
+* 🤝 Enhanced collaboration and technical communication skills
+
+---
+
+## 🚀 Featured Projects
+
+| Project                        | Technologies                 | Description                                                                                                   |
+| ------------------------------ | ---------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 🤖 AI Chatbot Using Python     | Python, Tkinter              | Developed an AI chatbot implementing NLP concepts to improve user interaction and conversational experiences. |
+| 🎬 Movie Recommendation System | Python, Pandas, Scikit-Learn | Built a recommendation engine that suggests movies based on user interests using machine learning techniques. |
+
+---
+
+## 📜 Certifications
+
+| Certification                              | Platform       |
+| ------------------------------------------ | -------------- |
+| 🐍 Python for Data Science                 | Coursera       |
+| 🤖 Introduction to Artificial Intelligence | Great Learning |
+| 📊 Machine Learning Basics                 | Simplilearn    |
+| 🧠 Deep Learning Specialization            | Coursera       |
+| ✨ Generative AI Fundamentals               | Google Cloud   |
+
+---
+
+## 🎓 Education
+
+| Degree                        | Institution                               | University      | Duration    | CGPA     |
+| ----------------------------- | ----------------------------------------- | --------------- | ----------- | -------- |
+| B.Tech Information Technology | Varuvan Vadivelan Institute of Technology | Anna University | 2023 – 2027 | 8.1 / 10 |
+
+---
+
+## 🌱 Currently Learning
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* ✨ Generative AI
+* ☁️ Cloud Computing
+* 🐍 Advanced Python
+
+---
+
+## 🌟 Core Strengths
+
+* Artificial Intelligence
+* Machine Learning
+* Problem Solving
+* Communication
+* Team Collaboration
+* Quick Learner
+
+---
+
+## 🎯 Extra-Curricular Activities
+
+* ♟️ Chess
+* 🏸 Badminton
+* 🎤 Singing
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:divyamadhu2642006@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/madhu026">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/REPLACE_WITH_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+## 💡 AI Thought
+
+> "Artificial Intelligence is most powerful when it amplifies human creativity, accelerates learning, and helps solve meaningful real-world challenges."
+
+---
+
+<p align="center">
+⭐ Turning ideas into intelligent solutions through AI, Machine Learning, and Data Science.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
