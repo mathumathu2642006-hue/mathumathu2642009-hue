@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=MADHU%20SRI&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Artificial%20Intelligence%20Engineer&descAlignY=55"/>
 
 
 <h1 align="center">Hi 👋 I'm Madhu Sri A</h1>
